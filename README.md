@@ -1,5 +1,6 @@
 # Ex.No:1a  Study of Socket Programming
-
+## Name : VISHWA V
+## Reg No: 212224110062
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
